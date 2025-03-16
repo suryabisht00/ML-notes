@@ -19,6 +19,28 @@ This repository contains examples and demonstrations of advanced Python librarie
 - `numpy3.py`: Advanced linear algebra operations (eigenvalues, SVD)
 - `numpy4.py`: Advanced statistical operations
 - `numpy5.py`: Advanced broadcasting and matrix manipulations
+- `numpy6.py`: ML Data Preprocessing (standardization, normalization)
+- `numpy7.py`: ML Model Evaluation Metrics
+- `numpy8.py`: Neural Network Operations
+- `function_docs.py`: Comprehensive documentation of NumPy functions and methods
+  - Detailed explanations of array operations
+  - Statistical function descriptions
+  - Linear algebra operation details
+  - Machine learning utility functions
+
+## Documentation Structure
+Each function/method documentation includes:
+- Syntax explanation
+- Parameter descriptions
+- Usage examples
+- Common applications
+
+## Machine Learning Focus
+The repository includes implementations of common machine learning operations:
+- Data preprocessing and normalization
+- Model evaluation metrics
+- Neural network computations
+- Basic deep learning operations
 
 ## Purpose
 
