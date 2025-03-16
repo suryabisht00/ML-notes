@@ -23,3 +23,5 @@ print("Covariance matrix:\n", covariance)
 hist, bins = np.histogram(data, bins=30)
 print("Histogram counts:", hist)
 print("Histogram bins:", bins)
+
+
